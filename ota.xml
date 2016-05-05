@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<Stable>
+<sprout>
+<Filename></Filename>
+<DownloadUrl>
+</DownloadUrl>
+</sprout>
+</Stable>
+</OTACenter>
